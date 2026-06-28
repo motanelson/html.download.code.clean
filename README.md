@@ -1,1 +1,1 @@
-download code clean
+compiles a bitmap or a graphic image
